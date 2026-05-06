@@ -1,16 +1,38 @@
-## Hi there 👋
+# EvaPilot1
 
-<!--
-**EvaPilot1/EvaPilot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎥 Anime person, retro gamer and probably a witch.
 
-Here are some ideas to get you started:
+🌐 Website: https://evapilot1.github.io
+🌐 Tumblr: https://evapilot1.tumblr.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Socials
+- Tumblr: https://evapilot1.tumblr.com/
+- Youtube: https://www.youtube.com/@EvaPilot1
+- Twitch: https://www.twitch.tv/evapilot1
+- Wordpress: https://evapilot.wordpress.com/
+- Spotify: https://open.spotify.com/user/11134506339
+- MyAnimeList: https://myanimelist.net/profile/EvaPilot1
+- Instagram: https://instagram.com/EvaPilot1
+- Plex: https://l.plex.tv/WLfBjqrB
+- Email: EvaPilot1@pm.me
+
+---
+
+## 🔗 Gaming
+- Playstation: EvaPilot1
+- Xbox: EvaPilot1
+- Steam: EvaPilot1
+- GOG: EvaPilot1
+- Discord: eva_pilot_1
+- RetroAchievements: https://retroachievements.org/user/EvaPilot1
+- TrueSteamAchievements: https://truesteamachievements.com/gamer/EvaPilot1
+
+---
+
+## 📁 Projects
+- Discord emoji collection  
+- Stickers & GIF library  
+- Avatars & banners  
+- Curated tools and links hub
