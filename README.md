@@ -1,6 +1,6 @@
 # EvaPilot1
 
-🎥 Anime fan • Retro gamer • Digital creator
+🎥 Anime person, retro gamer and probably a witch.
 
 🌐 Main Website  
 https://evapilot1.github.io
