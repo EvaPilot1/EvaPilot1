@@ -34,7 +34,7 @@ All accounts listed below represent the same creator identity.
 - Xbox: https://www.xbox.com/en-GB/play/user/EvaPilot1
 - Steam: https://steamcommunity.com/id/EvaPilot1
 - GOG: https://www.gog.com/u/EvaPilot1
-- Discord: @eva_pilot_1
+- Discord: @eva_pilot_1 https://discord.com/users/1431964642833600523
 - RetroAchievements: https://retroachievements.org/user/EvaPilot1
 - TrueSteamAchievements: https://truesteamachievements.com/gamer/EvaPilot1
 
