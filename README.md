@@ -3,7 +3,6 @@
 🎥 Anime person, retro gamer and probably a witch.
 
 🌐 Website: https://evapilot1.github.io
-🌐 Tumblr: https://evapilot1.tumblr.com
 
 ---
 
@@ -32,7 +31,7 @@
 ---
 
 ## 📁 Projects
-- Discord emoji collection  
+- Discord emoji collection (https://evapilot1.github.io/emojis.html)
 - Stickers & GIF library  
 - Avatars & banners  
-- Curated tools and links hub
+- Curated tools and links hub (https://evapilot1.github.io)
