@@ -24,6 +24,7 @@ All accounts listed below represent the same creator identity.
 - Spotify: https://open.spotify.com/user/11134506339
 - MyAnimeList: https://myanimelist.net/profile/EvaPilot1
 - Plex: https://l.plex.tv/WLfBjqrB
+- DeviantArt: https://www.deviantart.com/evapilot-01
 - Email: mailto:EvaPilot1@pm.me
 
 ---
