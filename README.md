@@ -4,6 +4,8 @@
 
 🌐 Main Website  
 https://evapilot1.github.io
+- Completed Game collection: https://evapilot1.github.io/games.html
+- Emoji collection: https://evapilot1.github.io/emojis.html
 
 ---
 
@@ -42,6 +44,7 @@ All accounts listed below represent the same creator identity.
 
 ## 📁 Projects
 - Emoji collection: https://evapilot1.github.io/emojis.html
+- Completed Game collection: https://evapilot1.github.io/games.html
 - Stickers & GIF library: https://evapilot1.github.io/gifs.html
 - Avatars & banners: https://evapilot1.github.io/avatars.html
 - Tools & hub: https://evapilot1.github.io
